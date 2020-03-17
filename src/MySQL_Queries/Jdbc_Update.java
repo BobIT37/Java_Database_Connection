@@ -46,7 +46,6 @@ public class Jdbc_Update {
 				"update employees "+
 		        "set email='john.doe@foo.com' "+
 		        "where last_name='Doe' and first_name='John'"				
-
 				);
 		
 		//Verify Updating
